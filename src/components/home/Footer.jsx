@@ -9,7 +9,7 @@ function Footer() {
 
   <img className=' h90' src={Logo1} alt="" />
  
-     <h1 className="phone cw">054-7901169</h1>
+     <h1 className="phone cw"><a href="tel:+97247901169">054-7901169</a></h1>
     
  </div>
   );

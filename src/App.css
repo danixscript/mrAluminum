@@ -108,17 +108,32 @@ body{
 .cw{
   color: white;
 }
+a{
+  color: white ;
+  text-decoration: none;
+}
+.h90{
+max-width: 500px;
+}
 .disnone{
   display: none;
   visibility: hidden;
 }
 .icon{
-  border: 1px solid black;
+  border: 2px solid black;
   border-radius: 50%;
-
+font-size: 1.5rem;
   width: 70px;
   height: 70px;
   text-align: center;
+}
+.imgcarusel{
+  height: 100%;
+  width: 100%;
+  min-height: 100% !important;
+  object-fit: cover;
+  background-size: cover;
+  background-position: center;
 }
 .w150{
   width: 60%;

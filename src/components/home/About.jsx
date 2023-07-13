@@ -12,7 +12,7 @@ function About() {
         </div>
         <div className="disnone flexRow bet w150 ">
             <div className="icon flexCol center">
-                 <h1 className="fa fa-phone "></h1>
+                 <h1 className="fa fa-phone "><a href="tel:+97247901169"></a></h1>
             </div>
            
            <div className="icon flexCol center">
@@ -51,7 +51,7 @@ function About() {
             <p className="peregraph">
                 מחירים ללא מתחרים ועבודה ברמה גבוהה
             </p>
-                <button className='btnCall'>ליעוץ חינם התקשרו עכשיו</button>
+                <button className='btnCall'><a href="tel:+97247901169">ליעוץ חינם התקשרו עכשיו</a></button>
             </div>
         </div>
           

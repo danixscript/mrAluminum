@@ -1,5 +1,7 @@
 import '../../css/home.css'
 import Logo1 from '../../images/logo.jpeg'
+import Caruser2 from '../bootcarusel/Carusel2';
+import Caruser1 from '../bootcarusel/Caruser1';
 
 function Squars() {
   return (
@@ -12,10 +14,11 @@ function Squars() {
 <p className="paregraph">
 מנוע של תריס חשמלי עושה את החיים לקלים יותר. מנועי תריס חשמלי נהיו מהירים ואמינים, אך עדיין יש שחיקה טבעית, תקלות משימוש לא נכון, תקלות שנובעות מקניית מנוע או התקנה לא איכותיים
 </p>
-<button className='btnCall margintop'>ליעוץ חינם התקשרו עכשיו</button>
+<button className='btnCall margintop'>   <a href="tel:+97247901169">ליעוץ חינם התקשרו עכשיו</a></button>
 </div>
         </div>
         <div className="images w50">
+            <Caruser1/>
 
         </div>
     </div>
@@ -27,13 +30,13 @@ function Squars() {
 <p className="paregraph">
 מנוע של תריס חשמלי עושה את החיים לקלים יותר. מנועי תריס חשמלי נהיו מהירים ואמינים, אך עדיין יש שחיקה טבעית, תקלות משימוש לא נכון, תקלות שנובעות מקניית מנוע או התקנה לא איכותיים
 </p>
-<button className='btnCall margintop'>ליעוץ חינם התקשרו עכשיו</button>
+<button className='btnCall margintop'>   <a href="tel:+97247901169">ליעוץ חינם התקשרו עכשיו</a></button>
 
 
 </div>
         </div>
-        <div className="images2 w50">
-
+        <div className=" w50">
+<Caruser2/>
         </div>
     </div>
     <div className="flexRowToCol h80vh w100">
@@ -43,7 +46,7 @@ function Squars() {
 <p className="paregraph">
 מנוע של תריס חשמלי עושה את החיים לקלים יותר. מנועי תריס חשמלי נהיו מהירים ואמינים, אך עדיין יש שחיקה טבעית, תקלות משימוש לא נכון, תקלות שנובעות מקניית מנוע או התקנה לא איכותיים
 </p>
-<button className='btnCall margintop'>ליעוץ חינם התקשרו עכשיו</button>
+<button className='btnCall margintop'>   <a href="tel:+97247901169">ליעוץ חינם התקשרו עכשיו</a></button>
 
 </div>
         </div>
