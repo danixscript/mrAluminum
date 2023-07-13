@@ -1,0 +1,148 @@
+.openingImage{
+    min-height: 65vh;
+    width: 100%;
+   background-size: cover;
+   object-fit: cover;
+    background-image: url('../images/image6.jpeg');
+    background-position: center;
+animation: imagesSlider 40s infinite linear;
+}
+
+@keyframes imagesSlider {
+    0%{
+        background-image: url('../images/image8.jpeg');
+    }
+    19%{
+        background-image: url('../images/image8.jpeg');
+ 
+    }
+    20%{
+        background-image: url('../images/image10.jpeg');
+ 
+    }
+    39%{
+        background-image: url('../images/image10.jpeg');
+
+    }
+    40%{
+        background-image: url('../images/image17.jpeg');
+    }
+    59%{
+        background-image: url('../images/image17.jpeg');
+
+    }
+    60%{
+        background-image: url('../images/image18.jpeg');
+ 
+    }
+    79%{
+        background-image: url('../images/image18.jpeg');
+
+    }
+    80%{
+        background-image: url('../images/image4.jpeg');
+    }
+    99%{
+        background-image: url('../images/image4.jpeg');
+
+    }
+    100%{
+        background-image: url('../images/image3.jpeg');
+ 
+    }
+    
+}
+
+
+.transformUp{
+    transform: translateY(-150px);
+  
+}
+.ListOfWorks{
+    text-align: center;
+    
+}
+.btnCall{
+    padding: 10px 20px 10px 20px ;
+    margin-top: 10px;
+    background-color: black;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 1.2rem;
+}
+.ul{
+    text-align: right;
+    direction: rtl;
+    margin-right: 55px;
+    margin-bottom: 30px;
+}
+li{
+    font-size: 1.2rem;
+    margin-bottom: 12px;
+    
+}
+.peregraph{
+    font-size: 1.6rem;
+    margin-bottom: 12px;
+}
+.headerAbout{
+    margin-bottom: 15px;
+}
+.w50{
+    width: 50%;
+}
+.h80vh{
+    height: 80vh;
+}
+.images{
+    background-image: url('../images/image10.jpeg');
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+}
+.images2{
+    background-image: url('../images/image9.jpeg');
+    background-size: cover;
+    object-fit: cover;
+    background-position: center; 
+}
+.images3{
+    background-image: url('../images/image8.jpeg');
+    background-size: cover;
+    object-fit: cover;
+    background-position: center; 
+}
+.footer{
+    height: 40vh;
+    width: 100%;
+    background-color: black;
+    margin-top: 50px;
+}
+.h90{
+    height: 80%;
+    width: 80%;
+}
+.botton{
+    border: 1px solid black;
+    padding: 10px;
+  
+}
+
+.allInSquare{
+   padding: 15px;
+   text-align: center;
+}
+.squareh1{
+    margin-bottom: 20px;
+}
+.paregraph{
+    width: 50%;
+
+}
+.margintop{
+    margin-top: 20px;
+}
+.squarsOpeningHeader{
+    margin-bottom: 40px;
+}

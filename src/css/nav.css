@@ -1,0 +1,21 @@
+.nav{
+  background-color: rgb(68, 98, 97);
+    height: 8vh;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 9999999;
+    overflow: hidden;
+}
+.logo{
+    height: 100%;
+    width: 100px;
+
+}
+.links{
+  color: white;
+  font-size: 1.2rem;
+  margin-left: 20px;
+  text-decoration: none;
+}
