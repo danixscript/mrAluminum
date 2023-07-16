@@ -14,7 +14,7 @@ function Squars() {
 <p className="paregraph">
 מנוע של תריס חשמלי עושה את החיים לקלים יותר. מנועי תריס חשמלי נהיו מהירים ואמינים, אך עדיין יש שחיקה טבעית, תקלות משימוש לא נכון, תקלות שנובעות מקניית מנוע או התקנה לא איכותיים
 </p>
-<button className='btnCall margintop'>   <a href="tel:+97247901169">ליעוץ חינם התקשרו עכשיו</a></button>
+<button className='btnCall margintop'>   <a className='cw' href="tel:+97247901169">ליעוץ חינם התקשרו עכשיו</a></button>
 </div>
         </div>
         <div className="images w50">
@@ -28,9 +28,8 @@ function Squars() {
 <div className="allInSquare flexCol center">
 <h1 className='squareh1'>כל עבודות הזכוכית </h1>
 <p className="paregraph">
-מנוע של תריס חשמלי עושה את החיים לקלים יותר. מנועי תריס חשמלי נהיו מהירים ואמינים, אך עדיין יש שחיקה טבעית, תקלות משימוש לא נכון, תקלות שנובעות מקניית מנוע או התקנה לא איכותיים
-</p>
-<button className='btnCall margintop'>   <a href="tel:+97247901169">ליעוץ חינם התקשרו עכשיו</a></button>
+פתרונות מותאמים אישית, ייעוץ מקצועי ואחריות מובטחת לתוצאות מעולות.</p>
+<button className='btnCall margintop'>   <a className='cw' href="tel:+97247901169">ליעוץ חינם התקשרו עכשיו</a></button>
 
 
 </div>
@@ -44,9 +43,8 @@ function Squars() {
         <div className="allInSquare flexCol center">
 <h1 className='squareh1'>חלונות ורשתות </h1>
 <p className="paregraph">
-מנוע של תריס חשמלי עושה את החיים לקלים יותר. מנועי תריס חשמלי נהיו מהירים ואמינים, אך עדיין יש שחיקה טבעית, תקלות משימוש לא נכון, תקלות שנובעות מקניית מנוע או התקנה לא איכותיים
-</p>
-<button className='btnCall margintop'>   <a href="tel:+97247901169">ליעוץ חינם התקשרו עכשיו</a></button>
+תיקון לכל סוגי חלונות האלומניום- רשתות, גלגלים, זכוכיות.</p>
+<button className='btnCall margintop'>   <a className='cw' href="tel:+97247901169">ליעוץ חינם התקשרו עכשיו</a></button>
 
 </div>
         </div>

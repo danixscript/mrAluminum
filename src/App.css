@@ -109,7 +109,7 @@ body{
   color: white;
 }
 a{
-  color: white ;
+ 
   text-decoration: none;
 }
 .h90{
@@ -126,6 +126,10 @@ font-size: 1.5rem;
   width: 70px;
   height: 70px;
   text-align: center;
+  
+}
+.cb{
+  color: #262626;
 }
 .imgcarusel{
   height: 100%;
@@ -146,6 +150,9 @@ font-size: 1.5rem;
   overflow: hidden;
   max-height: 300px;
 
+  }
+  .displayNone{
+    display: none;
   }
   .disnone{
     display: flex;

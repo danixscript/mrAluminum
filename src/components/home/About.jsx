@@ -10,14 +10,14 @@ function About() {
         <div className="logoBig">
             <img src={Logo1} className='img' alt="" />
         </div>
-        <div className="disnone flexRow bet w150 ">
+        <div className="disnone flexRow center w150 ">
             <div className="icon flexCol center">
-                 <h1 className="fa fa-phone "><a href="tel:+97247901169"></a></h1>
+                 <h1 className="fa fa-phone cb "><a className='cb' href="tel:+97247901169">call</a></h1>
             </div>
            
-           <div className="icon flexCol center">
-           <h1 className="fa fa-facebook "></h1>
-           </div>
+           {/* <div className="icon flexCol center">
+           <h1 className="fa fa-facebook cb"></h1>
+           </div> */}
 
         </div>
         <div className="ListOfWorks">
@@ -51,7 +51,7 @@ function About() {
             <p className="peregraph">
                 מחירים ללא מתחרים ועבודה ברמה גבוהה
             </p>
-                <button className='btnCall'><a href="tel:+97247901169">ליעוץ חינם התקשרו עכשיו</a></button>
+                <button className='btnCall'><a className='cw' href="tel:+97247901169">ליעוץ חינם התקשרו עכשיו</a></button>
             </div>
         </div>
           

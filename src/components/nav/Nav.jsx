@@ -13,8 +13,9 @@ function Nav(props) {
     <div className="headernav ">
       <h1 className="navheader">מ.ר אלומיניום <p className="fa fa-phone"></p>  </h1>
       
-    </div>
+    </div> 
     <div className="links">
+
         <NavLink className={'links'} to={'/home'}>
             דף הבית 
         </NavLink>
@@ -28,6 +29,7 @@ function Nav(props) {
             צור קשר
         </NavLink>
     </div>
+         <h2 className="cw displayNone">מ.ר אלומיניום איתכם לכל הדרך - מקצוענות - אמינות - זמינות</h2>
 
   </div>
   </div>
