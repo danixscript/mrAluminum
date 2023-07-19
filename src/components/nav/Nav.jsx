@@ -11,7 +11,7 @@ function Nav(props) {
       <img src={Logo} className="img" alt="" />
     </div>
     <div className="headernav ">
-      <h1 className="navheader">מ.ר אלומיניום <p className="fa fa-phone"></p>  </h1>
+      <h1 className="navheader">ר.מ אלומיניום <p className="fa fa-phone"></p>  </h1>
       
     </div> 
     <div className="links">
